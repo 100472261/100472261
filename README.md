@@ -68,5 +68,5 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
 <hr>
 <h1 align="center"> :chart_with_upwards_trend: Estadísticas :chart_with_downwards_trend: </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=dark" alt="Top Langs" />
 </p>
