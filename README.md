@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txZTd4ZGlpN21waWJndzI5MWdyZmVheGdnaXJwb2RiMGF4ZzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="200"/>
+  <!--<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txZTd4ZGlpN21waWJndzI5MWdyZmVheGdnaXJwb2RiMGF4ZzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="200"/>-->
   <!--<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJmdWg4dmRpcnNuMXR6emo1bmVsM2Yyb2d0cDhiaXlmbGIwOHRibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="200"/>-->
   <!--<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F5dzc2aGNhN2kxMDVtajd2NzFpZWNraXl1NGJlNmQ4OTg1bGlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>-->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBxdnI5NDBnZTBjajBjMm9hMnQ0eGtwdmc5NjVwYmw5ZjFtbHdreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 </p>
 <hr>
 <h1 align="center"> :wave: Bienvenid@ a mi perfil :wave: </h1>
@@ -49,7 +50,7 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-<h2 align="left">• 📊 Business Intelligence: </h2>
+<h2 align="left">• :chart_with_upwards_trend: Business Intelligence: </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -66,7 +67,14 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </p>
 <hr>
-<h1 align="center"> :chart_with_upwards_trend: Estadísticas :chart_with_downwards_trend: </h1>
+<h1 align="center"> 📊 Estadísticas 📊 </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+<hr>
+<h1 align="center"> :rocket: Algunos de mis proyectos :rocket: </h1>
+<p align="center">
+  <a href="https://github.com/100472261/TFG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight" alt="TFG" />
+  </a>
 </p>
