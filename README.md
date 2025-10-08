@@ -18,6 +18,11 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
 </div>
 <hr>
 <h1 align="center"> :zap: Skills :zap:</h1>
+<h2 align="left"> • 💻 Sistemas operativos: </h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 <h2 align="left"> • 🧠 Lenguajes de programación: </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pyhton"/>
@@ -26,11 +31,6 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
-</p>
-<h2 align="left"> • 💻 Sistemas operativos: </h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 <h2 align="left">• 🤖 Machine learning: </h2>
 <p align="left">
@@ -56,6 +56,8 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
 </p>
 <h2 align="left">• 🧰 Herramientas: </h2>
 <p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
@@ -63,6 +65,8 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </p>
-
-  
-
+<hr>
+<h1 align="center"> :chart_with_upwards_trend: Estadísticas :chart_with_downwards_trend: </h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact" alt="Top Langs" />
+</p>
