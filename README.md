@@ -6,6 +6,6 @@
 <h1 align="center"> :wave: Welcome to my profile :wave: </h1>
 <hr>
 <p align="center">
-  <a href="www.linkedin.com/in/jesus-maria-llanes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  <a href = "jesusmariallanes13@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.linkedin.com/in/jesus-maria-llanes" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="mailto:jesusmariallanes13@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
