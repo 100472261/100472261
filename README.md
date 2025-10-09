@@ -1,6 +1,6 @@
-<h1 align="center"> :wave: Bienvenid@ a mi perfil :wave: </h1>
+<h1 align="center"> :wave: Bienvenid@ a mi perfil </h1>
 <hr>
-<h1 align="center"> :mag_right: Sobre mí :mag_right: </h1>
+<h1 align="center"> :mag_right: Sobre mí : </h1>
 <div align="justify"> Graduado en Ingeniería Informática por la UC3M con especial interés en la Ciencia de Datos y la Inteligencia Artificial. 
 Experiencia práctica en proyectos académicos y personales en los que se ha empleado Python, librerías de Machine Learning y bases de datos relacionales y no relacionales. 
 Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profesional donde pueda aplicar mis conocimientos y en el que pueda aportar valor desde el primer día :rocket:.
@@ -13,19 +13,19 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBxdnI5NDBnZTBjajBjMm9hMnQ0eGtwdmc5NjVwYmw5ZjFtbHdreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="275"/>
 </p>
 <hr>
-<h1 align="center"> :mailbox_with_mail: Contacta conmigo :mailbox_with_mail: </h1>
+<h1 align="center"> :mailbox_with_mail: Contacta conmigo : </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/jesus-maria-llanes" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href="mailto:jesusmariallanes13@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
 <hr>
-<h1 align="center"> :zap: Skills :zap:</h1>
-<h2 align="left"> • 💻 Sistemas operativos: </h2>
+<h1 align="center"> :zap: Skills : </h1>
+<h2 align="left"> • 💻 Sistemas operativos : </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
-<h2 align="left"> • 🧠 Lenguajes de programación: </h2>
+<h2 align="left"> • 🧠 Lenguajes de programación : </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pyhton"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -34,7 +34,7 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
 </p>
-<h2 align="left">• 🤖 Machine learning: </h2>
+<h2 align="left">• 🤖 Machine learning : </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
@@ -44,19 +44,19 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
 </p>
-<h2 align="left">• :open_file_folder: Bases de datos: </h2>
+<h2 align="left">• :open_file_folder: Bases de datos : </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Apache Cassandra"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-<h2 align="left">• :chart_with_upwards_trend: Business Intelligence: </h2>
+<h2 align="left">• :chart_with_upwards_trend: Business Intelligence : </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
-<h2 align="left">• 🧰 Herramientas: </h2>
+<h2 align="left">• 🧰 Herramientas : </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -68,12 +68,12 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </p>
 <hr>
-<h1 align="center"> 📊 Estadísticas 📊 </h1>
+<h1 align="center"> 📊 Estadísticas : </h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 <hr>
-<h1 align="center"> :rocket: Algunos de mis proyectos :rocket: </h1>
+<h1 align="center"> :rocket: Algunos de mis proyectos : </h1>
 <p align="center">
   <a href="https://github.com/100472261/TFG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight" alt="TFG"/>
