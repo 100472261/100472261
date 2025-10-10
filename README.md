@@ -74,6 +74,10 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=2" alt="TFG"/>
   </a>
   <br>
+  <a href="https://github.com/100472261/Power-BI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Power-BI&theme=tokyonight&cache_seconds=21600&v=2" alt="Minishell"/>
+  </a>
+  <br>
   <a href="https://github.com/100472261/Minishell">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Minishell&theme=tokyonight&cache_seconds=21600&v=2" alt="Minishell"/>
   </a>
