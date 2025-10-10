@@ -71,16 +71,16 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
 <h1 align="center"> :rocket: Algunos de mis proyectos : </h1>
 <p align="center">
   <a href="https://github.com/100472261/TFG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight" alt="TFG"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=2" alt="TFG"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Minishell&theme=tokyonight" alt="Minishell"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Minishell&theme=tokyonight&cache_seconds=21600&v=2" alt="Minishell"/>
   </a>
 <hr>
 </p>
 <h1 align="center"> 📊 Estadísticas : </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=2" alt="Top Langs" />
 </p>
 <hr>
