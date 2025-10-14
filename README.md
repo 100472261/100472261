@@ -71,20 +71,24 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
 <h1 align="center"> :rocket: Algunos de mis proyectos : </h1>
 <p align="center">
   <a href="https://github.com/100472261/TFG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=2" alt="TFG"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=1" alt="TFG"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Power-BI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Power-BI&theme=tokyonight&cache_seconds=21600&v=2" alt="Minishell"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Power-BI&theme=tokyonight&cache_seconds=21600&v=1" alt="PowerBI"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Minishell&theme=tokyonight&cache_seconds=21600&v=2" alt="Minishell"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Minishell&theme=tokyonight&cache_seconds=21600&v=1" alt="Minishell"/>
+  </a>
+  <br>
+  <a href="https://github.com/100472261/Multi-Threading">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Multi-Threading&theme=tokyonight&cache_seconds=21600&v=1" alt="Threads"/>
   </a>
 <hr>
 </p>
 <h1 align="center"> 📊 Estadísticas : </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=2" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=1" alt="Top Langs" />
 </p>
 <hr>
