@@ -74,6 +74,10 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=1" alt="TFG"/>
   </a>
   <br>
+  <a href="https://github.com/100472261/Preprocesado-de-datos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Preprocesado-de-datos&theme=tokyonight&cache_seconds=21600&v=1" alt="Preprocesado"/>
+  </a>
+  <br>
   <a href="https://github.com/100472261/Power-BI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Power-BI&theme=tokyonight&cache_seconds=21600&v=1" alt="PowerBI"/>
   </a>
@@ -89,6 +93,6 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
 </p>
 <h1 align="center"> 📊 Estadísticas : </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=1" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=2" alt="Top Langs" />
 </p>
 <hr>
