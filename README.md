@@ -13,7 +13,7 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBxdnI5NDBnZTBjajBjMm9hMnQ0eGtwdmc5NjVwYmw5ZjFtbHdreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="275"/>
 </p>
 <hr>
-<h1 align="center"> 🚀 Skills : </h1>
+<h1 align="center"> 🧠 Skills : </h1>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,git,github,gitlab,docker,pycharm,vscode&perline=19" alt="My Skills">
