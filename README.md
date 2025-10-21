@@ -10,14 +10,12 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
   <!--<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txZTd4ZGlpN21waWJndzI5MWdyZmVheGdnaXJwb2RiMGF4ZzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="200"/>-->
   <!--<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJmdWg4dmRpcnNuMXR6emo1bmVsM2Yyb2d0cDhiaXlmbGIwOHRibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="200"/>-->
   <!--<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F5dzc2aGNhN2kxMDVtajd2NzFpZWNraXl1NGJlNmQ4OTg1bGlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>-->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBxdnI5NDBnZTBjajBjMm9hMnQ0eGtwdmc5NjVwYmw5ZjFtbHdreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="275"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBxdnI5NDBnZTBjajBjMm9hMnQ0eGtwdmc5NjVwYmw5ZjFtbHdreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 </p>
 <hr>
 <h1 align="center"> 🧠 Skills : </h1>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,git,github,gitlab,docker,pycharm,vscode&perline=19" alt="My Skills">
-  </a>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,pyspark,pytorch,scikitlearn,tensorflow,numpy,pandas,matplotlib,cassandra,mongodb,oracle,excel,tableau,git,github,gitlab,docker,pycharm,vscode&perline=12" alt="My Skills" />
 </p>
 <hr>
 <h1 align="center"> :mortar_board: Algunos de mis proyectos : </h1>
