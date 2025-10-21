@@ -14,9 +14,9 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
 </p>
 <hr>
 <h1 align="center"> 🧠 Skills : </h1>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,pyspark,pytorch,scikitlearn,tensorflow,numpy,pandas,matplotlib,cassandra,mongodb,oracle,excel,tableau,git,github,gitlab,docker,pycharm,vscode&perline=12" alt="My Skills" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,git,github,gitlab,docker,pycharm,vscode&perline=19" alt="My Skills">
+</a>
 <hr>
 <h1 align="center"> :mortar_board: Algunos de mis proyectos : </h1>
 <p align="center">
