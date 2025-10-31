@@ -18,7 +18,7 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
   <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,postgres,git,github,gitlab,docker,pycharm,vscode&perline=20" alt="My Skills">
 </a>
 <hr>
-<h1 align="center"> :mortar_board: Algunos de mis proyectos : </h1>
+<h1 align="center"> :mortar_board: Algunos de mis proyectos: </h1>
 <p align="center">
   <a href="https://github.com/100472261/TFG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=2" alt="TFG" width="400"/>
@@ -29,7 +29,7 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
   </a>
   <br>
   <a href="https://github.com/100472261/Weather-Data-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Weather-Data-Pipeline&theme=tokyonight&cache_seconds=21600&v=2" alt="Pipeline" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Weather-Data-Pipeline&theme=tokyonight&cache_seconds=21600&v=1" alt="Pipeline" width="400"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Power-BI">
