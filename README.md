@@ -18,29 +18,45 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
   <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,postgres,git,github,gitlab,docker,pycharm,vscode&perline=20" alt="My Skills">
 </a>
 <hr>
-<h1 align="center"> :mortar_board: Algunos de mis proyectos: </h1>
+<h1 align="center"> 🤖 Proyectos Data Science - IA: </h1>
 <p align="center">
   <a href="https://github.com/100472261/TFG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=2" alt="TFG" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=1" alt="TFG" width="400"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Preprocesado-de-datos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Preprocesado-de-datos&theme=tokyonight&cache_seconds=21600&v=2" alt="Preprocesado" width="400"/>
-  </a>
-  <br>
-  <a href="https://github.com/100472261/Weather-Data-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Weather-Data-Pipeline&theme=tokyonight&cache_seconds=21600&v=1" alt="Pipeline" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Preprocesado-de-datos&theme=tokyonight&cache_seconds=21600&v=1" alt="Preprocesado" width="400"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Power-BI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Power-BI&theme=tokyonight&cache_seconds=21600&v=2" alt="PowerBI" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Power-BI&theme=tokyonight&cache_seconds=21600&v=1" alt="PowerBI" width="400"/>
   </a>
   <br>
     <a href="https://github.com/100472261/Tableau">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Tableau&theme=tokyonight&cache_seconds=21600&v=2" alt="Tableau" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Tableau&theme=tokyonight&cache_seconds=21600&v=1" alt="Tableau" width="400"/>
   </a>
+  <br>
+   <a href="https://github.com/100472261/Weather-Data-Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Weather-Data-Pipeline&theme=tokyonight&cache_seconds=21600&v=1" alt="Pipeline" width="400"/>
+  </a>
+  <br>
 <hr>
 </p>
+<h1 align="center"> 🎓 Otros proyectos: </h1>
+<p align="center">
+  <a href="https://github.com/100472261/Minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Minishell&theme=tokyonight&cache_seconds=21600&v=1" alt="Minishell" width="400"/>
+  </a>
+  <br>
+  <a href="https://github.com/100472261/Multi-Threading">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Multi-Threading&theme=tokyonight&cache_seconds=21600&v=1" alt="Preprocesado" width="400"/>
+  </a>
+  <br>
+  <a href="https://github.com/100472261/100472261.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=100472261.github.io&theme=tokyonight&cache_seconds=21600&v=1" alt="Preprocesado" width="400"/>
+  </a>
+</p>
+<hr>
 <h1 align="center"> 📊 Estadísticas : </h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=1" alt="Top Langs" width="400"/>
