@@ -41,7 +41,7 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
   </a>
   <br>
   <a href="https://github.com/100472261/CRUD-operations-FastAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=CRUD-operations-FastAPI&theme=tokyonight&cache_seconds=21600&v=3" alt="FastAPI" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=CRUD-Operations-FastAPI&theme=tokyonight&cache_seconds=21600&v=2" alt="FastAPI" width="400"/>
   </a>
   <br>
 <hr>
