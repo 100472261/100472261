@@ -40,6 +40,10 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Weather-Data-Pipeline&theme=tokyonight&cache_seconds=21600&v=1" alt="Pipeline" width="400"/>
   </a>
   <br>
+  <a href="https://github.com/100472261/DB-controller-with-FastAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=DB-controller-with-FastAPI&theme=tokyonight&cache_seconds=21600&v=1" alt="FastAPI" width="400"/>
+  </a>
+  <br>
 <hr>
 </p>
 <h1 align="center"> 🎓 Otros proyectos: </h1>
