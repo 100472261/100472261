@@ -24,8 +24,8 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=TFG&theme=tokyonight&cache_seconds=21600&v=2" alt="TFG" width="400"/>
   </a>
   <br>
-  <a href="https://github.com/100472261/Preprocesado-de-datos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Preprocesado-de-datos&theme=tokyonight&cache_seconds=21600&v=1" alt="Preprocesado" width="400"/>
+  <a href="https://github.com/100472261/Data-Preprocessing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Data-Preprocessing&theme=tokyonight&cache_seconds=21600&v=2" alt="Preprocesado" width="400"/>
   </a>
   <br>
   <a href="https://github.com/100472261/Power-BI">
@@ -40,8 +40,8 @@ Me considero un perfil proactivo y analítico, motivado por seguir creciendo en 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Weather-Data-Pipeline&theme=tokyonight&cache_seconds=21600&v=2" alt="Pipeline" width="400"/>
   </a>
   <br>
-  <a href="https://github.com/100472261/DB-controller-with-FastAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=DB-controller-with-FastAPI&theme=tokyonight&cache_seconds=21600&v=2" alt="FastAPI" width="400"/>
+  <a href="https://github.com/100472261/CRUD-operations-FastAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=CRUD-operations-FastAPI&theme=tokyonight&cache_seconds=21600&v=3" alt="FastAPI" width="400"/>
   </a>
   <br>
 <hr>
