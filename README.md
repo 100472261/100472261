@@ -1,7 +1,7 @@
 <h1 align="center"> :wave: Bienvenid@ a mi perfil </h1>
 <hr>
 <h1 align="center"> :mag_right: Sobre mí : </h1>
-<div align="justify"> Graduado en Ingeniería Informática por la UC3M con interés en la Ciencia de Datos y la Inteligencia Artificial. Cuento con experiencia práctica en proyectos académicos y personales en los que he trabajado con diversos lenguajes de programación, bibliotecas de Machine Learning, bases de datos y herramientas de visualización.
+<div align="justify"> Graduado en Ingeniería Informática por la UC3M con interés en la Ciencia de Datos y la Inteligencia Artificial. Cuento con experiencia práctica en proyectos académicos y personales en los que he trabajado con diversos lenguajes de programación, bibliotecas de machine learning, bases de datos y herramientas de visualización.
 Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profesional donde pueda aplicar mis conocimientos y en el que pueda aportar valor desde el primer día :rocket:.
 </div>
 <br>
