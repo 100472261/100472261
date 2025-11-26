@@ -52,17 +52,17 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   </a>
   <br>
   <a href="https://github.com/100472261/Multi-Threading">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Multi-Threading&theme=tokyonight&cache_seconds=21600&v=2" alt="Preprocesado" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=Multi-Threading&theme=tokyonight&cache_seconds=21600&v=2" alt="Multi-Threading" width="400"/>
   </a>
   <br>
   <a href="https://github.com/100472261/100472261.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=100472261.github.io&theme=tokyonight&cache_seconds=21600&v=2" alt="Preprocesado" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=100472261&repo=100472261.github.io&theme=tokyonight&cache_seconds=21600&v=2" alt="Portfolio" width="400"/>
   </a>
 </p>
 <hr>
 <h1 align="center"> 📊 Estadísticas : </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=2" alt="Top Langs" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472261&layout=compact&theme=tokyonight&cache_seconds=21600&v=2" alt="Stats" width="400"/>
 </p>
 <hr>
 <h1 align="center"> :mailbox_with_mail: Contacta conmigo : </h1>
