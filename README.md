@@ -20,7 +20,7 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
 <h1 align="center"> 🎓 Proyectos: </h1>
 
 | Repositorio | Descripción |
-| :---: | :---: |
+| :--- | :--- |
 | [**TFG**](https://github.com/100472261/TFG) | <div align="justify">El objetivo principal de este trabajo es encontrar un modelo basado en aprendizaje profundo que sea capaz de asociar distintas trayectorias marítimas con distintos tipos de barcos. Ya que esta hipótesis no es segura, en este proyecto también se abordará la detección de anomalías en las trayectorias estudiadas. Es decir, el modelo elegido no solo tendrá que asociar una trayectoria marítima con un tipo de embarcación (Problema de clasificación de embarcaciones), también tendrá que determinar si la trayectoria estudiada se trata o no de una anomalía (Problema de clasificación de anomalías). </div> |
 | [**Data&nbsp;Preprocessing**](https://github.com/100472261/Data-Preprocessing) | <div align="justify">Preprocesado de datos con Python. </div> |
 | [**Power&nbsp;BI**](https://github.com/100472261/Power-BI) | <div align="justify">Reportes hechos con esta herramienta. </div> |
