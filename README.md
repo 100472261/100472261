@@ -17,19 +17,19 @@ Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profe
   <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,postgres,fastapi,git,github,gitlab,docker,pycharm,vscode&perline=21" alt="My Skills">
 </a>
 <hr>
-<h1 align="center"> 🎓 Proyectos: </h1>
+<h1 align="center"> 🗂️ Proyectos: </h1>
 
 | Repositorio | Descripción |
 | :--- | :--- |
-| [**TFG**](https://github.com/100472261/TFG) | <div align="justify">El objetivo principal de este trabajo es encontrar un modelo basado en aprendizaje profundo que sea capaz de asociar distintas trayectorias marítimas con distintos tipos de barcos. Ya que esta hipótesis no es segura, en este proyecto también se abordará la detección de anomalías en las trayectorias estudiadas. Es decir, el modelo elegido no solo tendrá que asociar una trayectoria marítima con un tipo de embarcación (Problema de clasificación de embarcaciones), también tendrá que determinar si la trayectoria estudiada se trata o no de una anomalía (Problema de clasificación de anomalías). </div> |
-| [**Data&nbsp;Preprocessing**](https://github.com/100472261/Data-Preprocessing) | <div align="justify">Preprocesado de datos con Python. </div> |
-| [**Power&nbsp;BI**](https://github.com/100472261/Power-BI) | <div align="justify">Reportes hechos con esta herramienta. </div> |
-| [**Tableau**](https://github.com/100472261/Tableau) | <div align="justify">Reportes hechos con esta herramienta. </div> |
-| [**Weather&nbsp;Data&nbsp;Pipeline**](https://github.com/100472261/Weather-Data-Pipeline) | <div align="justify">Diseño e implementación de una arquitectura de datos ELT (End-to-End) contenerizada con Docker. El pipeline, orquestado por Apache Airflow, ingesta datos meteorológicos en tiempo real desde la API Weatherstack hacia PostgreSQL. Se utiliza dbt (data build tool) para el modelado de datos, transformando la información extraída de la API en un esquema analítico optimizado (capas staging y mart). Finalmente, los insights se visualizan en un dashboard interactivo mediante Apache Superset, permitiendo el monitoreo continuo de la información. </div> |
-| [**CRUD&nbsp;Operations&nbsp;FastAPI**](https://github.com/100472261/CRUD-Operations-FastAPI) | <div align="justify">Aplicación backend construida con FastAPI que permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre una BD PostgreSQL. </div> |
-| [**Minishell**](https://github.com/100472261/Minishell) | <div align="justify">Intérprete de mandatos. </div> |
-| [**Multi&nbsp;Threading**](https://github.com/100472261/Multi-Threading) | <div align="justify">Programación multi-hilo. </div> |
-| [**Portfolio**](https://github.com/100472261/100472261.github.io) | <div align="justify">Portfolio web. </div> |
+| 🎓[**TFG**](https://github.com/100472261/TFG) | <div align="justify">El objetivo principal de este trabajo es encontrar un modelo basado en aprendizaje profundo que sea capaz de asociar distintas trayectorias marítimas con distintos tipos de barcos. Ya que esta hipótesis no es segura, en este proyecto también se abordará la detección de anomalías en las trayectorias estudiadas. Es decir, el modelo elegido no solo tendrá que asociar una trayectoria marítima con un tipo de embarcación (Problema de clasificación de embarcaciones), también tendrá que determinar si la trayectoria estudiada se trata o no de una anomalía (Problema de clasificación de anomalías). </div> |
+| ✨[**Data&nbsp;Preprocessing**](https://github.com/100472261/Data-Preprocessing) | <div align="justify">Preprocesado de datos con Python. </div> |
+| 📊[**Power&nbsp;BI**](https://github.com/100472261/Power-BI) | <div align="justify">Reportes hechos con esta herramienta. </div> |
+| 📊[**Tableau**](https://github.com/100472261/Tableau) | <div align="justify">Reportes hechos con esta herramienta. </div> |
+| ⛈️[**Weather&nbsp;Data&nbsp;Pipeline**](https://github.com/100472261/Weather-Data-Pipeline) | <div align="justify">Diseño e implementación de una arquitectura de datos ELT (End-to-End) contenerizada con Docker. El pipeline, orquestado por Apache Airflow, ingesta datos meteorológicos en tiempo real desde la API Weatherstack hacia PostgreSQL. Se utiliza dbt (data build tool) para el modelado de datos, transformando la información extraída de la API en un esquema analítico optimizado (capas staging y mart). Finalmente, los insights se visualizan en un dashboard interactivo mediante Apache Superset, permitiendo el monitoreo continuo de la información. </div> |
+| ⚡[**CRUD&nbsp;Operations&nbsp;FastAPI**](https://github.com/100472261/CRUD-Operations-FastAPI) | <div align="justify">Aplicación backend construida con FastAPI que permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre una BD PostgreSQL. </div> |
+| >_ [**Minishell**](https://github.com/100472261/Minishell) | <div align="justify">Intérprete de mandatos. </div> |
+|⛓️[**Multi&nbsp;Threading**](https://github.com/100472261/Multi-Threading) | <div align="justify">Programación multi-hilo. </div> |
+| 📋[**Portfolio**](https://github.com/100472261/100472261.github.io) | <div align="justify">Portfolio web. </div> |
 
 <hr>
 <h1 align="center"> :mailbox_with_mail: Contacta conmigo : </h1>
