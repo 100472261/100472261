@@ -1,7 +1,7 @@
 <h1 align="center"> :wave: Bienvenid@ a mi perfil </h1>
 <hr>
 <h1 align="center"> :mag_right: Sobre mí : </h1>
-<div align="justify"> Ingeniero Informático centrado en la Ciencia de Datos y la Inteligencia Artificial. Actualmente estoy desarrollando labores de AI Engineer en Deloitte. Cuento con experiencia práctica en proyectos reales, académicos y personales. Perfil proactivo y analítico, motivado por seguir creciendo en un entorno profesional en el que pueda aplicar mis conocimientos para generar un impacto en los procesos del cliente 🚀.
+<div align="justify"> Ingeniero Informático apasionado por la Ciencia de Datos y la Inteligencia Artificial. Actualmente estoy desarrollando labores de AI Engineer en Deloitte, generando impacto en los procesos del cliente mediante la creación de agentes. Cuento con experiencia práctica en proyectos reales, académicos y personales. Me considero un perfil proactivo y analítico, motivado por seguir creciendo y aprendiendo nuevas tecnologías y habilidades 🚀.
 </div>
 <br>
 <p align="center">
