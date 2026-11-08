@@ -13,7 +13,7 @@
 <hr>
 <h1 align="center"> 🧠 Skills : </h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,linux,py,c,cpp,html,css,js,pytorch,sklearn,tensorflow,cassandra,mongodb,postgres,fastapi,git,github,gitlab,docker,pycharm,vscode&perline=21" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=windows,linux,py,sql,c,html,css,js,pytorch,tensorflow,sklearn,docker,fastapi,git,github,gitlab,celonis,cassandra,postgres,mongodb&perline=21" alt="My Skills">
 </a>
 <hr>
 <h1 align="center"> 🗂️ Proyectos: </h1>
